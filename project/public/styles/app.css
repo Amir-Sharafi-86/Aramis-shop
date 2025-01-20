@@ -711,6 +711,10 @@ video {
   margin-top: 0.75rem;
 }
 
+.mt-3\.5 {
+  margin-top: 0.875rem;
+}
+
 .mt-4 {
   margin-top: 1rem;
 }
@@ -719,20 +723,8 @@ video {
   margin-top: 2rem;
 }
 
-.mt-\[1\.3rem\] {
-  margin-top: 1.3rem;
-}
-
-.mt-\[1\.5rem\] {
-  margin-top: 1.5rem;
-}
-
 .mt-\[11px\] {
   margin-top: 11px;
-}
-
-.mt-\[140px\] {
-  margin-top: 140px;
 }
 
 .mt-\[45px\] {
@@ -757,6 +749,34 @@ video {
 
 .mt-\[9px\] {
   margin-top: 9px;
+}
+
+.mt-\[3rem\] {
+  margin-top: 3rem;
+}
+
+.mt-\[3\] {
+  margin-top: 3;
+}
+
+.mt-\[2rem\] {
+  margin-top: 2rem;
+}
+
+.mt-\[1rem\] {
+  margin-top: 1rem;
+}
+
+.mt-\[1\.5rem\] {
+  margin-top: 1.5rem;
+}
+
+.mt-\[1\.3rem\] {
+  margin-top: 1.3rem;
+}
+
+.mt-\[140px\] {
+  margin-top: 140px;
 }
 
 .mb-12 {
@@ -866,6 +886,14 @@ video {
 
 .grid-cols-3 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-12 {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
 }
 
 .flex-col {
@@ -997,6 +1025,11 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
 
+.bg-black {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity, 1));
+}
+
 .p-4 {
   padding: 1rem;
 }
@@ -1037,6 +1070,10 @@ video {
 
 .text-center {
   text-align: center;
+}
+
+.text-right {
+  text-align: right;
 }
 
 .font-Dana {
@@ -1095,6 +1132,11 @@ video {
   line-height: 1rem;
 }
 
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
 .leading-normal {
   line-height: 1.5;
 }
@@ -1140,6 +1182,10 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-\[5EB5F8\] {
+  color: 5EB5F8;
 }
 
 .hover\:text-black:hover {
@@ -1191,6 +1237,10 @@ video {
     display: block;
   }
 
+  .md\:flex {
+    display: flex;
+  }
+
   .md\:hidden {
     display: none;
   }
@@ -1199,12 +1249,16 @@ video {
     width: 1066px;
   }
 
-  .md\:grid-cols-3 {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .md\:grid-cols-4 {
     grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
   .md\:flex-nowrap {
@@ -1218,11 +1272,6 @@ video {
 
   .md\:text-right {
     text-align: right;
-  }
-
-  .md\:text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
   }
 
   .md\:text-5xl {
@@ -1245,6 +1294,11 @@ video {
   .md\:text-base {
     font-size: 1rem;
     line-height: 1.5rem;
+  }
+
+  .md\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 }
 
