@@ -11,8 +11,8 @@ Npm run Tailwind
 - responsive for all devices
 - Sales of various products
 - Cleancode 
-<img src="./Demo-img/Screenshot (126).png">
-<img src="./Demo-img/Screenshot (127).png">
-<img src="./Demo-img/Screenshot (128).png">
-<img src="./Demo-img/Screenshot (129).png">
-<img src="./Demo-img/Screenshot (130).png"> 
+<img src="./Demo-img/Screenshot (136).png">
+<img src="./Demo-img/Screenshot (137).png">
+<img src="./Demo-img/Screenshot (138).png">
+<img src="./Demo-img/Screenshot (139).png">
+<img src="./Demo-img/Screenshot (140).png"> 
