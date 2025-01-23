@@ -10,4 +10,5 @@ Npm run Tailwind
 #   Features
 - responsive for all devices
 - Sales of various products
-- Cleancode    
+- Cleancode   
+<img src="/Demo-img/Screenshot (126).png">
