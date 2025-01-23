@@ -12,3 +12,7 @@ Npm run Tailwind
 - Sales of various products
 - Cleancode   
 <img src="/Demo-img/Screenshot (126).png">
+<img src="/Demo-img/Screenshot (127).png">
+<img src="/Demo-img/Screenshot (128).png">
+<img src="/Demo-img/Screenshot (129).png">
+<img src="/Demo-img/Screenshot (130).png">
