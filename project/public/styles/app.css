@@ -1402,4 +1402,10 @@ video {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
+
+@media (min-width: 1280px) {
+  .xl\:hidden {
+    display: none;
+  }
+}
   
