@@ -4,7 +4,7 @@ This project is a store that is powered by Tailwind CSS and has a bit of JavaScr
 Npm run Tailwind 
 
 # Technologies
--HTML, 
+-HTML, CSS
 -Tailwind
 -JavaScript
 #   Features
