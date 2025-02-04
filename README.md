@@ -16,3 +16,9 @@ Npm run Tailwind
 <img src="./Demo-img/Screenshot (138).png">
 <img src="./Demo-img/Screenshot (139).png">
 <img src="./Demo-img/Screenshot (140).png"> 
+<img src="./Demo-img/Screenshot (162).png">
+<img src="./Demo-img/Screenshot (163).png">
+<img src="./Demo-img/Screenshot (164).png">
+<img src="./Demo-img/Screenshot (165).png">
+<img src="./Demo-img/Screenshot (166).png"> 
+<img src="./Demo-img/Screenshot (167).png"> 
