@@ -37,22 +37,22 @@
      <!--Center Navigation  -->
      <div>
       <ul class="flex gap-x-8 items-center text-natural-gray text-base cursor-pointer">
-        <li>
+        <li class="li-items" data-section="home">
           <a href="" class="hover:transition-colors hover:text-black  text-natural-black  text-xl  ">
             صفحه اصلی
           </a>
         </li>
-        <li>
+        <li class="li-items" data-section="product-2">
           <a href="" class="hover:transition-colors hover:text-black  text-natural-black  ">
             تشک ها 
           </a>
         </li>
-        <li>
+        <li class="li-items" data-section="">
           <a href="" class="hover:transition-colors hover:text-black  text-natural-black  ">
             محصولات
           </a>
         </li>
-        <li>
+        <li class="li-items" data-section="footer">
           <a href="" class="hover:transition-colors hover:text-black  text-natural-black  ">
             درباره ما 
           </a>
@@ -97,7 +97,7 @@
 <!-- === Main === -->
 <main>
   <!-- Section Tittle -->
-  <section class="mt-[71px]">
+  <section class="mt-[71px] home">
     <div class="container">
       <div class="text-center">
         <p class=" text-3xl md:text-5xl text-[#363636]">خواب راحت و اسوده  
@@ -244,7 +244,7 @@
     </div>
   </section>
 <!--  Section Product (2)  --> 
-  <section>
+  <section class="product-2">
     <div class="container">
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-5">
         <!-- Product 1 -->
@@ -467,7 +467,7 @@
   </section>
 </main>
 <!-- === Footer  === -->
-<footer class="w-full h-auto bg-natural-black rounded-3xl  text-center mx-auto ">
+<footer class="w-full h-auto bg-natural-black rounded-3xl  text-center mx-auto  footer">
   <div class="container mx-auto px-4">
     <!-- Tittle Footer -->
     <div class="flex justify-center items-center gap-x-2 mb-9 ">
@@ -476,7 +476,7 @@
     </div>
     <!-- Menu Footer -->
     <div>
-      <ul class="flex   gap-y-2 gap-x-10 justify-center items-center text-base " id="Mobile-menu">
+      <ul class="flex   gap-y-2 gap-x-4 md:gap-x-10 justify-center items-center text-base " id="Mobile-menu">
         <li><a href="" class="text-white  transition-colors  hover:text-white">صفحه اصلی</a></li>
         <li><a href="" class="text-[#858585] transition-colors hover:text-white">تشک‌ها</a></li>
         <li><a href="" class="text-[#858585] transition-colors hover:text-white">درباره ما</a></li>
